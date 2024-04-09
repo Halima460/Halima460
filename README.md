@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything I need to equip myself for this journey 
 - 🌱 I’m currently honing my data analytics skills in R, SQL, Excel, PowerBI, Tableau, and Python
 - 💞️ I thrive in the world of numbers and insight, I enjoy reading and watching movies also 
-- 📫 How to reach me: Across all my socials
+- 📫 How to reach me: across all my socials
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am not sure
 
